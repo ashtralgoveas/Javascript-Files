@@ -1,1 +1,0 @@
-/*Check output in console of the browser*/
